@@ -1,4 +1,5 @@
 let variable = 1;
+let x = 0;
 for (let row = 1; row <= 4; row++) {
   let str = "";
   for (let col = 1; col <= row; col++) {
